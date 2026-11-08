@@ -13,7 +13,7 @@ not safety checks.
 ## Install
 
 ```bash
-git clone https://github.com/coldstar96/finish ~/.claude/skills/finish
+git clone https://github.com/coldstar96/finish-skill ~/.claude/skills/finish
 ```
 
 Then ask Claude to "keep going until it's done" or type `/finish`.
